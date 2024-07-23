@@ -21,6 +21,8 @@
     <a href="https://github.com/Tybenson0/CPP-Class-Roster/issues">Report Bug</a>
     ·
     <a href="https://github.com/Tybenson0/CPP-Class-Roster/pulls">Request Feature</a>
+    ·
+    <a href="https://www.youtube.com/watch?v=_KSN1Xk3Tfw">View Live Demo</a>
   </p>
 </div>
 
@@ -104,6 +106,10 @@ The C++ Class Roster was built using the VisualStudio IDE along with the C++.
 ## Getting Started
 
 Clone the project to your local machine and have fun!
+
+OR
+
+View the live demo at https://www.youtube.com/watch?v=_KSN1Xk3Tfw
 
 <br />
 
